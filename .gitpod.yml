@@ -1,7 +1,8 @@
 tasks:
-  - name: Python Terminal
-    openMode: split-right
-    command: python hello.py
+  - name: Hello world
+    command: |
+      clear && \
+      python hello.py
 
 vscode:
   extensions:
