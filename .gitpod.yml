@@ -1,5 +1,9 @@
-
+tasks:
+  - name: Python Terminal
+    openMode: split-right
+    command: python hello.py
 
 vscode:
   extensions:
     - ms-python.python
+    - ms-toolsai.jupyter
