@@ -1,7 +1,7 @@
 tasks:
   - name: Python Terminal
-    openMode: split-right
     command: python hello.py
+    openMode: split-right
 
 vscode:
   extensions:

@@ -14,3 +14,4 @@ Feel free to fork this repo if you wanted to keep everything forever.
 
 [Learn to Code by Solving Problems](https://nostarch.com/learn-code-solving-problems) is a book by [Dr. Daniel Zingaro](https://www.danielzingaro.com/).
 This repo exists for those who don't want to muddy their machine or want to jump right into the book. It leverages [Gitpod](https://www.gitpod.io) and pre-installs a couple of extensions and provides a tiny script to ensure it works.
+If you are here just looking, note that nothing in here really comes from the book, this just provides structure - you will need the book to do any of this!
