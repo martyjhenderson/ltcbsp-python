@@ -1,6 +1,6 @@
 tasks:
   - name: Python Terminal
-    command: python hello.py
+    command: python
     openMode: split-right
 
 vscode:
