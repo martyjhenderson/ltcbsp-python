@@ -5,7 +5,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/martyjhenderson/ltcbsp-python)
 
 Open it in Gitpod (probably by logging into Gitpod).
-When it launches it will get a couple things setup and open a terminal that runs a very small script.
+When it launches it will get a couple things setup and open a terminal that runs `python hello.py` to make sure it's all working.
 
 Feel free to fork this repo if you wanted to keep everything forever.
 
