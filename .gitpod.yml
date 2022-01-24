@@ -1,5 +1,5 @@
 tasks:
-  - name: Python Terminal
+  - name: Hello world
     command: |
       clear && \
       python hello.py
